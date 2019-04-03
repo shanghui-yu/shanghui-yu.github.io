@@ -6,10 +6,6 @@ module.exports = {
       {
         text: 'Home',
         link: '/'
-      },
-      {
-        text: 'Study',
-        link: '/'
       }
     ]
   }
